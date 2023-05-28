@@ -1,0 +1,9 @@
+{
+  "tools": [
+	"news"
+  ],
+  "kwargs": {
+	"google_api_key": "AIzaSyCtlKoUy276TzPdVO3_Fuc3nlADX03MLfM",
+    "google_cse_id": "546a80fe1863c410e"
+  }
+}
