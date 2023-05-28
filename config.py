@@ -142,7 +142,7 @@ class Config(dict):
                 self.user_datas = pickle.load(f)
                 logger.info("[Config] User datas loaded.")
         except FileNotFoundError as e:
-            logger.info("[Config] User datas file not found, ignore.")
+            logger.info("[Config] User datas file 111 not found, ignore.")
         except Exception as e:
             logger.info("[Config] User datas error: {}".format(e))
             self.user_datas = {}
