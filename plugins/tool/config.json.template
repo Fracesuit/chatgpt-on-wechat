@@ -3,11 +3,15 @@
     "python",
     "url-get",
     "terminal",
-    "meteo-weather"
+    "meteo-weather",
+	"wikipedia",
+	"news"
   ],
   "kwargs": {
     "top_k_results": 2,
     "no_default": false,
-    "model_name": "gpt-3.5-turbo"
+    "model_name": "gpt-3.5-turbo",
+	"google_api_key": "AIzaSyCtlKoUy276TzPdVO3_Fuc3nlADX03MLfM",
+    "google_cse_id": "546a80fe1863c410e"
   }
 }
